@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+# Rock Paper Scissors Lizard Spock Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project implements a browser-based game of Rock Paper Scissors Lizard Spock using React. Players can challenge the computer and their scores are dynamically tracked. The game offers interactive choices and displays results in real-time. This project is hosted on frontendmentors.io.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
 
-## Expanding the ESLint configuration
+[Live Demo]([https://www.example.com](https://rock-paper-scissors-lizard-spock-nine-pearl.vercel.app/))
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Screenshots
+![rock paper scissors lizard spock screenshot](https://github.com/Mahdii-Kariimiian/Rock-Paper-Scissors-Lizard-
 
-- Configure the top-level `parserOptions` property like this:
+![rock paper scissors lizard spock screenshot 1](https://github.com/Mahdii-Kariimiian/Rock-Paper-Scissors-Lizard-Spock/assets/134393975/734cb190-e1ac-42f7-be22-35e467d4fc8c)
+Spock/assets/134393975/ae944ce0-4484-4718-ad34-1b3c015890c9)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Technologies Used
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- React
+- TypeScript
+- Tailwind Css
+
+## Features
+
+- **Score Tracking:** Keep track of the score as you play against the computer.
+- **Choice Selection:** Choose from Paper, Rock, Scissors, Lizard, or Spock.
+- **Computer Opponent:** Randomly selects its choice after the user picks.
+- **Winner Determination:** Determines the winner based on the game rules.
+- **Rules Display:** View game rules by clicking the "RULES" button, which overlays a modal.
+
+## Contact
+
+- Email: Mahdii.kariimiian@gmail.com
+- GitHub: [GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
+
