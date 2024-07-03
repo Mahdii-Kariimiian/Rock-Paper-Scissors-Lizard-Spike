@@ -9,10 +9,10 @@ This project implements a browser-based game of Rock Paper Scissors Lizard Spock
 [Live Demo]([https://www.example.com](https://rock-paper-scissors-lizard-spock-nine-pearl.vercel.app/))
 
 ## Screenshots
-![rock paper scissors lizard spock screenshot](https://github.com/Mahdii-Kariimiian/Rock-Paper-Scissors-Lizard-
+![rock paper scissors lizard spock screenshot](https://github.com/Mahdii-Kariimiian/Rock-Paper-Scissors-Lizard-Spock/assets/134393975/ae944ce0-4484-4718-ad34-1b3c015890c9)
 
 ![rock paper scissors lizard spock screenshot 1](https://github.com/Mahdii-Kariimiian/Rock-Paper-Scissors-Lizard-Spock/assets/134393975/734cb190-e1ac-42f7-be22-35e467d4fc8c)
-Spock/assets/134393975/ae944ce0-4484-4718-ad34-1b3c015890c9)
+
 
 ## Technologies Used
 
