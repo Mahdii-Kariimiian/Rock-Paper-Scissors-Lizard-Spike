@@ -31,6 +31,7 @@ This project implements a browser-based game of Rock Paper Scissors Lizard Spock
 ## Contact
 
 - Email: Mahdii.kariimiian@gmail.com
-- Github: [Profile]([https://github.com/mahdiikariimiian](https://github.com/Mahdii-Kariimiian))
-- Linkedin [Profile](htttps://www.linkedin.com/in/mahdi-karimian-116643273)
+- GitHub: [Your GitHub Profile]( https://github.com/Mahdii-Kariimiian)
+- linkedin: [My linkedin]( htttps://www.linkedin.com/in/mahdi-karimian-116643273)
+
 
